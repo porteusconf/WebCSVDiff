@@ -1,6 +1,6 @@
-id,name,year of birth, 
+id,name,year of birth
 1,albert einstein,1879
 2,isaac newton,1643
-3,marie curie,1867
+3,jean-baptiste charcot,1867
 4,galilée,1564
-0,"First CSV to compare", "from https://extendsclass.com/csv-diff.html#userGuide"
+0,"Second CSV to compare", "from https://extendsclass.com/csv-diff.html#userGuide"
