@@ -1,0 +1,9 @@
+---
+layout: csv
+title: test of yaml front-matter in adoc csv file
+---
+,===
+Artist,Track,Genre
+Taylor, "You've got a friend, now.", folk
+Baauer,Harlem Shake,Hip Hop
+,===
