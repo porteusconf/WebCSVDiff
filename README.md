@@ -7,6 +7,8 @@ Try the demo here: [https://extendsclass.com/csv-diff.html](https://extendsclass
 
 ![alt text](./image/preview.png "Preview")
 
+Note: as an aside, any public csv on github can be grabbed as json with [free gitrows api](https://gitrows.com/#try) such as [https://api.gitrows.com/@github/porteusconf/WebCSVDiff/test/Sac-200-rows.csv](https://api.gitrows.com/@github/porteusconf/WebCSVDiff/test/Sac-200-rows.csv)
+
 ## Dependencies 
 
 This tool uses:
